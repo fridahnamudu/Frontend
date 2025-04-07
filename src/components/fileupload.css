@@ -1,0 +1,22 @@
+.fileupload{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    flex-direction: column;
+}
+.formStyle{
+    padding: 20px;
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 10px;
+    width: 50%;
+    text-align: center;
+ 
+}
+.form-contol{
+    border-color: black !important;
+    padding: 10px !important;
+    margin-top:  10px;
+}    
