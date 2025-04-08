@@ -4,7 +4,6 @@ import { useEffect,useState } from 'react';
 import axios from 'axios';
 import PdfComp from '../PdfComp';
 
-import workerSrc from 'pdfjs-dist/build/pdf.worker.min.js';
 
 
 import "./fileupload.css"
